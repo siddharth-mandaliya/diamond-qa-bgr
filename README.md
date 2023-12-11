@@ -9,4 +9,4 @@ For the tests on the 256 images, a standard U-2 Net is proposed, and the obtaine
 
 All the pretrained networks are available at "https://drive.google.com/drive/folders/1CT7rw7tyGVCazT-ij9rAnLCBM7s_o-Ax".
 
-Video presentation for the same is avaliable at "https://drive.google.com/file/d/191g1C5dR_vzgLjzUJX5XhhnoUbUn-KqE/view?usp=sharing".
+Video presentation for the same is avaliable at "https://drive.google.com/file/d/1AhN9Ywjk5c9YpPGrWC3LLGukKO0HqLIC/view?usp=share_link".
