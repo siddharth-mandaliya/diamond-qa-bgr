@@ -1,4 +1,4 @@
-# Mined_Hackathon
+# Mined Hackathon (Diamond Quality Analysis and Background Removal)
 
 Our approach employs a pre-trained U-2 Net alongside auxiliary ensemble networks, designed to operate seamlessly with the latest TensorFlow and Numpy versions. This repository serves as the final submission by Team DetrousEN for the MineD Hackathon, where the focal task centered on background and foreground segmentation.
 
@@ -8,4 +8,4 @@ Within the 'Ensemble' folder, you'll find a Jupyter notebook dedicated to the en
 
 All pre-trained networks are conveniently accessible [here](https://drive.google.com/drive/folders/1CT7rw7tyGVCazT-ij9rAnLCBM7s_o-Ax).
 
-For a comprehensive overview, we've also provided a video presentation, which can be viewed [here](https://drive.google.com/file/d/1AhN9Ywjk5c9YpPGrWC3LLGukKO0HqLIC/view?usp=share_link)https://drive.google.com/file/d/1AhN9Ywjk5c9YpPGrWC3LLGukKO0HqLIC/view?usp=share_link.
+For a comprehensive overview, we've also provided a video presentation, which can be viewed [here](https://drive.google.com/file/d/1AhN9Ywjk5c9YpPGrWC3LLGukKO0HqLIC/view?usp=share_link).
